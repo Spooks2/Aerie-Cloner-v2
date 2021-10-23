@@ -8,7 +8,7 @@
 		<a href="https://discord.gg/"><img src="https://discordapp.com/api/guilds/891608460167364648/widget.png?style=shield"></img></a>
 	</h4>
 	<p align="center">
-		A cool discord cloner bot.
+		Discord Cloner Bot.
 	</p>
     <p align="center">
 		<b>
@@ -31,3 +31,5 @@
 
 ---
 	Don't be a leach. Please give me a star or follow.
+
+	
