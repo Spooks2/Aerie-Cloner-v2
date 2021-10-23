@@ -12,7 +12,7 @@
 	</p>
     <p align="center">
 		<b>
- I have zero intentions to keep this updated and working.
+ Obfuscated so people dont break it.
 		</b> 
 	</p>
 </p>
