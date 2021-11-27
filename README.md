@@ -5,7 +5,7 @@
 	<h4 align="center">
         <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="License: CC BY-NC-SA 4.0"></img></a>
         &nbsp;
-		<a href="https://discord.gg/common"><img src="https://discordapp.com/api/guilds/891608460167364648/widget.png?style=shield"></img></a>
+		<a href="https://discord.gg/common"><img src="https://discordapp.com/api/guilds/854858083896524810/widget.png?style=shield"></img></a>
 	</h4>
 	<p align="center">
 		Discord Cloner Bot.
