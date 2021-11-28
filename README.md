@@ -19,6 +19,11 @@
 
 <br/>
 
+<p align="center">
+ <img alt="AgreedDiscordCloner" src="https://cdn.discordapp.com/attachments/903587511916449802/914477103976681512/c3104155b2cae21b9e3331a5d9150c9a.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+</p>
+
 
 
 
@@ -31,11 +36,5 @@
 
 ---
 	Don't be a leach. Please give me a star or follow. Credits For Readme Aspect
-
-
-<p align="center">
- <img alt="AgreedDiscordCloner" src="https://cdn.discordapp.com/attachments/903587511916449802/914477103976681512/c3104155b2cae21b9e3331a5d9150c9a.png" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-</p>
 
 	
