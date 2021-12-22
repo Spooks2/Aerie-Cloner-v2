@@ -19,18 +19,11 @@
 
 <br/>
 
-<p align="center">
- <img alt="AgreedDiscordCloner" src="https://cdn.discordapp.com/attachments/903587511916449802/914477103976681512/c3104155b2cae21b9e3331a5d9150c9a.png" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-</p>
-
-
-
 
 ### Install
 ```
 1. https://nodejs.org/en/ (Make sure this is installed)
-2. Then you would want config the bot in config.json 
+2. Then you would want to put ur token and server id in config.json 
 3. Run install.bat and wait then run start.bat and enter the guild id of the server you want to copy.
 ```
 
